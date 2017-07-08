@@ -104,11 +104,21 @@ h3 {
     padding-bottom: 30px;
     padding-top: 0;
 }
+.section-small {
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
 
 .full-height {
     height: 100vh;
 }
+.contact-height {
+    height: 20vh;
+}
 
+.small-height{
+    height: 5vh;
+}
 #intro.section {
     background: url(../../static/img/rabiraj.jpg) no-repeat center center/cover;
     position: relative;
